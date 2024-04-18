@@ -1,0 +1,27 @@
+.container {
+    width: 90%;
+    text-align: center;
+}
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.menu-item {
+    text-align: center;
+}
+
+.menu-image {
+    width: 100px;
+    height: 100px;
+}
+.button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: brown;
+}
+/* Tambahkan gaya lainnya sesuai kebutuhan */
